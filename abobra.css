@@ -1,0 +1,26 @@
+header {
+  background-color: MidnightBlue;
+    padding: 30px 30px 30px 350px;
+border-radius: 20px;
+}
+.Kartinka {
+  position:relative;
+top:-120px;
+}
+body {
+  background-color: MediumBlue;
+}
+div {
+background-color: black;
+  padding: 30px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  display: flex;
+}
+footer {
+background-color: black;
+  padding: 30px 30px 30px 350px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  display: flex;
+}

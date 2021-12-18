@@ -1,0 +1,53 @@
+header {
+  background-color: MidnightBlue;
+  padding: 10px;
+border-radius: 20px;
+}
+.Kartinka {
+  position:relative;
+top:-120px;
+}
+body {
+  background-color: MediumBlue;
+}
+.post {
+  background-color: MidnightBlue;
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  display: flex;
+}
+main {
+  padding: 20px;
+}
+.me {
+  background-color: black;
+  padding: 30px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  display: flex;
+}
+.video {
+  background-color: black;
+  padding: 30px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  display: flex;
+}
+.carousele {
+  display: flex;
+}
+.carousele {
+background-color: black;
+padding: 30px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  display: flex;
+}
+footer {
+background-color: black;
+  padding: 30px 30px 30px 350px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  display: flex;
+}
